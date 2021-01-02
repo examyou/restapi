@@ -8,15 +8,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Examyou\\RestAPI\\": "src",
-            "Examyou\\RestAPI\\Tests\\": "tests"
+            "Examyou\\RestAPI\\": "src"
         }
-    },
-    "authors": [
-        {
-            "name": "",
-            "email": ""
-        }
-    ]
+    }
 }
 
